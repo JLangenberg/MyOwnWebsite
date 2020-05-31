@@ -1,0 +1,46 @@
+h1    {
+    font-size: 8rem;
+    margin: 0 auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+p  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
+}
+
+.container  {
+    width: 90%;
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.imageLeft   {
+    float:left;
+    margin-right: 30px;
+    margin-top: 5%;
+    height: 50%;
+    width: 50%;
+    position: relative;
+    margin: auto 2%;
+}
+.imageRight   {
+    float:right;
+    margin-left: 30px;
+    margin-top: 5%;
+    height: 80%;
+    width: 80%;
+    margin: auto 1%;
+}
+.row   {
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+}

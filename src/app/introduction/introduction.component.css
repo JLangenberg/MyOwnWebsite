@@ -1,0 +1,102 @@
+.topContainer   {
+    background-color: #d7fbe8;
+    position: relative;
+    padding-top: 50px;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.middleContainer    {
+    position: relative;
+    padding-top: 50px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.bottomContainer    {
+    padding: 1% auto;
+    text-align: center;
+    margin: 0;
+}
+
+.textContainer  {
+    line-height: 2;
+    text-align: left;
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+}
+
+.javaIcon,.cLanguageIcon   {
+    width: 80%;
+    height: 80%;
+    padding: 1%;
+    margin:10%;
+}
+
+.cLanguageIcon    {
+    margin:7%;
+}
+
+.imgContainer  {
+    width: 7%;
+    height: 7%;
+    margin: 1.5%;
+    border-radius:10rem;
+    background-color: #1fab89;
+    display: inline-block;
+
+    
+}
+
+.icons  {
+  padding: 5px;
+  width: 100%;
+}
+
+.credit {
+    text-align: center;
+    width: 50%;
+    padding-top: 3%;
+    padding-bottom: 0;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+h1    {
+    font-size: 10rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+}
+h2  {
+    font-family: 'Montserrat', sans-serif;
+    font-size:2rem;
+    font-weight: bold;
+}
+
+h3  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+
+p  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.7rem;
+}
+
+hr  {
+    border-style: dotted none none none;
+    height: 0;
+    width: 15%;
+    border-color: #7a4d1d;
+    border-width: 15px;
+}
+
+a   {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
