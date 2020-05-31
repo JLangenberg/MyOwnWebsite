@@ -1,0 +1,21 @@
+.topContainer   {
+    text-align: center;
+    width: 50%;
+    padding-top: 2%;
+    margin: 0 auto;
+}
+
+.prjList {
+    width: 60%;
+    margin: 2% auto;
+    line-height: 2;
+}
+
+p	{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.7rem;
+}
+
+a   {
+    color: rgb(16, 139, 0);
+}
