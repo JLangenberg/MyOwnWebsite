@@ -21,7 +21,7 @@ cache:
 
 script:
   - ng lint
-  - ng build --prod --output-path
+  - ng build --prod
 
 
 deploy:
