@@ -19,7 +19,8 @@ cache:
 
 script:
   - ng lint
-  - ng build --prod
+  - ng build --prod --output-path docs --base-href /MyOwnWebsite/
+
 
 deploy:
   provider: pages
