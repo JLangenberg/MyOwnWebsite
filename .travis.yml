@@ -21,7 +21,7 @@ cache:
 
 script:
   - ng lint
-  - ng build --prod --output-path ../ --base-href /MyOwnWebsite/
+  - ng build --prod --output-path
 
 
 deploy:
@@ -29,5 +29,6 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
+  local_dir: build
   on:
     branch: gh-pages
