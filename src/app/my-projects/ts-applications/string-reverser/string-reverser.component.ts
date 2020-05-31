@@ -11,15 +11,14 @@ export class StringReverserComponent implements OnInit {
 
   ngOnInit(): void {
     // Add a key listener for the button
-    document.querySelector("button").addEventListener("click", function ()
-    {
+    document.querySelector('button').addEventListener('click', function ()  {
       // Get the word the user entered
-      var inputWord = document.querySelector("input").value;
+      const inputWord = document.querySelector('input').value;
       // Reverse it
-      var reversedString = reverseString(inputWord);
+      const reversedString = reverseString(inputWord);
       // Display it
-      document.getElementById("feedback").innerHTML = reversedString;
-    })
+      document.getElementById('feedback').innerHTML = reversedString;
+    });
   }
 }
 
@@ -29,13 +28,13 @@ export class StringReverserComponent implements OnInit {
  */
 function reverseString(word: string): string {
   // The array that will contain the reversed string
-  let reversedString = [];
+  const reversedString = [];
 
   // Read the string and save it in reverse
   for (let wordPointer = 0; wordPointer < word.length; wordPointer++) {
-      reversedString.push(word.split('')[word.length-wordPointer-1]);
+      reversedString.push(word.split('')[word.length - wordPointer - 1]);
   }
   // Return the reversed string.
 
-  return reversedString.join("");    
+  return reversedString.join('');
 }

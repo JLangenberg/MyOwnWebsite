@@ -6,9 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public language = "english";
+  public language = 'english';
 
-  getLanguage():string  {
+  getLanguage(): string  {
     return this.language;
   }
 }

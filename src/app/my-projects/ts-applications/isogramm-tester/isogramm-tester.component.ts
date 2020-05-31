@@ -11,15 +11,14 @@ export class IsogrammTesterComponent implements OnInit {
 
   ngOnInit(): void {
     // Adds an event listener to the button
-    document.querySelector("button").addEventListener("click", function ()
-    {
-    let inputWord = document.querySelector("input").value;
-    if (inputWord === "")   {
-        document.getElementById("feedback").innerHTML = "You have to enter something to check for first!";
+    document.querySelector('button').addEventListener('click', function ()  {
+    const inputWord = document.querySelector('input').value;
+    if (inputWord === '')   {
+        document.getElementById('feedback').innerHTML = 'You have to enter something to check for first!';
     }   else    {
-        document.getElementById("feedback").innerHTML =  "It is "+ (checkForIsogramm(inputWord) ? "" : "not") + " an isogramm!";
+        document.getElementById('feedback').innerHTML =  'It is ' + (checkForIsogramm(inputWord) ? '' : 'not') + ' an isogramm!';
     }
-    })
+    });
   }
 }
 
@@ -32,7 +31,7 @@ function checkForIsogramm(word: string): boolean {
 
   // The amount of letters of the same type found in the word. Gets reset for every letter.
   let letterAmount = 0;
-  
+
   for (let pointerWord = 0; pointerWord < word.length; pointerWord++)    {
       // Resets the counter
       letterAmount = 0;
