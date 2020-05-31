@@ -9,7 +9,6 @@ import { IntroductionComponent } from './introduction/introduction.component';
 import { AboutMeComponent } from './about-me/about-me.component';
 import { FooterComponent } from './footer/footer.component';
 import { MyProjectsComponent } from './my-projects/my-projects.component';
-import { CvComponent } from './cv/cv.component';
 import { AppRoutingModule } from './app-routing.module';
 import { IsogrammTesterComponent } from './my-projects/ts-applications/isogramm-tester/isogramm-tester.component';
 import { StringReverserComponent } from './my-projects/ts-applications/string-reverser/string-reverser.component';
@@ -25,7 +24,6 @@ import { CSharpApplicationsComponent } from './my-projects/c-sharp-applications/
     AboutMeComponent,
     FooterComponent,
     MyProjectsComponent,
-    CvComponent,
     IsogrammTesterComponent,
     StringReverserComponent,
     DiamondFabricatorComponent,
