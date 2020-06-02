@@ -1,6 +1,9 @@
 language: node_js
 node_js:
  - "12.16.1"
+ 
+cache: 
+  -npm
 
 branches:
   only:
@@ -19,13 +22,13 @@ cache:
 
 script:
   - ng lint
-  - ng build --prod --output-path docs --base-href /MyOwnWebsite/
+  - ng build --prod --output-path dist --base-href dist
 
 
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github_token: $GITHUB_TOKEN 
   keep_history: true
   on:
     branch: master
