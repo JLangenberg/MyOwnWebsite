@@ -29,10 +29,8 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
+  target-branch: gh-pages
   keep_history: true
   local_dir: build
   on:
-    repo: JLangenberg/MyOwnWebsite/
-    branches:
-      only:
-        - gh-pages
+    branch: master
