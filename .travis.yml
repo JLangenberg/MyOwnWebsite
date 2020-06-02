@@ -32,4 +32,7 @@ deploy:
   keep_history: true
   local_dir: build
   on:
-    branch: gh-pages
+    repo: JLangenberg/MyOwnWebsite/
+    branches:
+      only:
+        - gh-pages
