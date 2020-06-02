@@ -22,15 +22,13 @@ cache:
 
 script:
   - ng lint
-  - ng build --prod --output-path dist --base-href ./
+  - ng build --prod --output-path dist --base-href dist
 
 
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  target-branch: gh-pages
+  github_token: $GITHUB_TOKEN 
   keep_history: true
-  local_dir: build
   on:
     branch: master
