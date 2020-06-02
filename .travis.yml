@@ -22,7 +22,7 @@ cache:
 
 script:
   - ng lint
-  - ng build --prod --output-path dist --base-href dist
+  - ng build --prod --output-path 'webapp' --base-href './'
 
 
 deploy:
