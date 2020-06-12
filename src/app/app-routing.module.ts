@@ -10,6 +10,7 @@ import { IsogrammTesterComponent } from './my-projects/ts-applications/isogramm-
 import { StringReverserComponent } from './my-projects/ts-applications/string-reverser/string-reverser.component';
 
 const routes: Routes = [
+  { path: '', component: IntroductionComponent },
   { path: 'main', component: IntroductionComponent },
   { path: 'about-me', component: AboutMeComponent },
   { path: 'my-projects', component: MyProjectsComponent },
