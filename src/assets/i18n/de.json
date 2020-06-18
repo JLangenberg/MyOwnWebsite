@@ -1,0 +1,101 @@
+{
+    "introduction": {
+        "title": "Ich bin Julius",
+        "titleCaption": "Ein aufstrebender Programmierer",
+
+        "middleContainer":  {
+            "header1": "Ich bin 18 Jahre alt und lerne gerade WebDevelopment",
+            "header2": "Momentan habe ich Erfahrung mit Java, C++, und C#."
+        },
+
+        "about":  {
+            "header": "Über diese Website",
+            "text": "Diese Website läuft mit einer Kombination aus TypeScript, Node, Bootstrap und Angular. Sie ist ein Projekt das dazu diente, meine WebDevelopment Fähigkeiten zu verbessern. Mein Ziel ist es mir Grundkenntnisse in Node, Bootstrap und Angular anzueignen, da ich bis jetzt nur selten mit etwas außer JavaScript/TypeScript, HTML und CSS gearbeitet habe."
+        },
+
+        "use":  {
+            "header":"Der Nutzen dieser Website",
+            "text": "Diese Website war zwar auch als Übung für mich selbst gedacht, sollte allerdings auch dazu dienen etwas zu haben, dass Leuten eine grobe Idee von meinen Fähigkeiten gibt, auch als eine Art Bewerbung.  Da dies also auch eine Form der Bewerbung ist gibt es hier auch einiges über mich zu lesen. Aber da diese Website frei zugänglich für jeden ist, habe ich auf private Informationen verzichtet. Damit möchte ich Sie dazu einladen, meine Website zu erkunden und einen Blick auf meine bisherigen Projekte zu werfen. Die deutsche Übersetzung ist neu und noch nicht ganz fertig, es kann sein, dass hier und da noch Englische Inhalte zu finden sind."
+        },
+
+        "credit":   {
+            "madeBy1": "Java Icon gemacht von",
+            "madeBy2": "Freepik",
+            "madeBy3": "auf",
+            "madeBy4": "www.flaticon.com"
+        }
+    },
+
+    "aboutMe":  {
+        "whoAmI":   {
+            "title": "Wer bin ich?",
+            "text": "Mein Name ist Julius Langenberg. Ich bin ein 18 Jahre alter Schüler an einer Fachhochschule für Technologie. Ich hatte schon immer eine Affinität für digitale Technologien und habe mich dazu entschieden einen Beruf im Bereich IT zu anzustreben. Deshalb bin ich auf meine momentane Schule gewechselt, da sie gerade im Vergleich zu meiner alten Schule eine große Auswahl an IT-Themen unterrichtet."
+        },
+
+        "hobbies":  {
+            "title": "Meine Hobbies",
+            "designDevelopment":    {
+                "title": "Design und Entwicklung",
+                "text": "Mein Interesse an Programmierung kam ursprünglich von dem Wunsch, meine eigenen Computerspiele zu entwickeln. Nach dem Unterricht in der Schule und dem auseinandersetzen mit Privaten Interessen, habe ich jetzt ein grundlegendes Verständnis der Softwareentwicklung und lerne immer noch jeden Tag etwas dazu. Zwei meiner privaten Interessen sind das modifizieren von Spielen und die eigene Entwicklung von neuen, kleinen Spielen."
+            },
+            "playingPiano": {
+                "title": "Klavier spielen",
+                "text": "Ich hatte immer Spaß daran Musik zu hören. Irgendwann war mir das nicht mehr genug, und ich wollte selber welch machen. Klavier spielen lernen macht viel Spaß, aber es bringt einem auch Disziplin bei. Aber auch lernt man, dass sich üben auszahlt und ohne Übung sogar talentierte Menschen nicht sehr weit kommen."
+            },
+            "playingRocketLeague": {
+                "title": "Rocket League spielen",
+                "text": "Rocket League bringt mir nicht nur bei mit Fremden effizient im Team zu arbeiten, es bringt mir auch bei Ruhig zu bleiben, auch wenn ich verliere."
+            },
+            "cooking": {
+                "title": "Kochen",
+                "text": "Ich habe mit ungefähr 13 Jahren zu kochen angefangen. Da meine Fähigkeiten zu kochen noch sehr eingeschränkt waren, stellte sich bei den immergleichen Gerichten schnell langeweile ein. Mit der Zeit habe ich nicht nur eine Menge neue Rezepte gelernt, sondern habe auch eine Liebe zum ausprobieren von neuen Gerichten entdeckt. Ich glaube, eine gesunde Ernährung sind ein wichtiger Teil einer gesunden Lebensweise und sehr wichtig um gute Leistungen erbringen zu können. Auch habe ich festgestellt, dass Kochen ein sehr entspannendes Hobby ist, das besonders mit Freunden oder für Freunde Spaß macht."
+            }
+        },
+
+        "credit":   {
+            "p1": "Code,",
+            "p2": "Klavier,",
+            "p3": "Auto",
+            "p4": "und",
+            "p5": "Essen",
+            "p6": "Icon made by",
+            "p7": "auf"
+        }
+    },
+
+    "myProjects":    {
+        "main": {
+            "title": "Meine Projekte",
+            "text": "Da ich noch kein Profi bin, habe ich nicht besonders viele beeindruckende Projekte, aber was ich habe sind ein paar Aufgaben aus einem Praktikum, aus meiner Schule und das ein oder andere private Projekt. Auf meinem GitHub Profil gibt es auch Projekte, die hier nicht aufgeführt sind.",
+
+            "typeScript":   {
+                "title": "TypeScript Applikationen",
+                "project1": "Ist es ein Isogramm?",
+                "project2": "Ein String umdrehen",
+                "project3": "Diamanten herstellen"
+            },
+
+            "java": {
+                "title": "Java Applikationen",
+                "project1": "Auto-Datenbank",
+                "project2": "Chat"
+            },
+
+            "csharp":   {
+                "title": "C# Applikationen",
+                "project1": "Rectumble"
+            },
+
+            "cpp":  {
+                "title": "C++ Applikationen",
+                "filler": "Ich muss hier noch ein paar Projekte aus der 11ten Klasse auflisten, oder neue Anfangen die ich dann hier eintragen kann. Diese Website ist immerhin noch nicht fertig und wird laufend verändert."
+            }
+        }
+    },
+
+    "header":   {
+        "main": "Hauptseite",
+        "aboutMe": "Über mich",
+        "myProjects": "Meine Projekte"
+    }
+}

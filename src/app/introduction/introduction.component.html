@@ -1,11 +1,11 @@
 <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|Montserrat|Sacramento&display=swap" rel="stylesheet">
 <div class="topContainer">
-    <h1>I'm Julius</h1>
-    <h2>An aspiring programmer</h2>
+    <h1>{{ 'introduction.title' | translate }}</h1>
+    <h2>{{ 'introduction.titleCaption' | translate }}</h2>
 </div>
     <div class="middleContainer">
-        <p>I'm 18 years old and currently learning web development.</p>
-        <p>As for now, I have experience with Java, C++ and C#.</p>
+        <p>{{ 'introduction.middleContainer.header1' | translate }}</p>
+        <p>{{ 'introduction.middleContainer.header2' | translate }}</p>
         <div class="icons">
             <div class="imgContainer">
                 <a title="Click for Image Source (https://www.flaticon.com/free-icon/java_226777?term=Java&page=1&position=6)" href="https://www.flaticon.com/free-icon/java_226777?term=Java&page=1&position=6"><img src="https://image.flaticon.com/icons/svg/226/226777.svg" class="javaIcon" alt="Java Icon"></a>
@@ -20,24 +20,17 @@
     </div>
     <hr>
     <div class="textContainer">
-        <h2>About this website</h2>
-        <p>This website is run with a combination of TypeScript, Node, Bootstrap and Angular.
-           It was made as a project to deepen my WebDevelopment Skills. My main focus was getting
-           comfortabe with Node, Bootstrap and Angular since up to this point I rarely worked with
-           anything else than basic JS/TS, HTML and CSS. 
+        <h2>{{ 'introduction.about.header' | translate}}</h2>
+        <p>{{ 'introduction.about.text' | translate}}
         </p>
     </div>
     <hr>
     <div class="textContainer">
-        <h2>The use of this website</h2>
-        <p>While I did make this website as practice for myself, I also wanted something I could show
-            to give people a rough idea of my abilities as a programmer and web developer, as a sort of application. Naturally, since this
-            is intended as a part of an application, there is also a bit of information about me. But
-            since this is also available to anyone on the internet, I left out information that I deem private.
-            Feel free to browse through this website and some of my work.
+        <h2>{{ 'introduction.use.header' | translate}}</h2>
+        <p>{{ 'introduction.use.text' | translate}}
         </p>
     </div>
     <div class="credit">
-        <p>Java Icon made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> from  
-            <a href="https://www.flaticon.com/">www.flaticon.com</a></p>
+        <p>{{ 'introduction.credit.madeBy1' | translate }} <a href="https://www.flaticon.com/authors/freepik">{{ 'introduction.credit.madeBy2' | translate }}</a> {{ 'introduction.credit.madeBy3' | translate }}  
+            <a href="https://www.flaticon.com/">{{ 'introduction.credit.madeBy4' | translate }}</a></p>
     </div>
