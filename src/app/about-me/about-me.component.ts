@@ -8,7 +8,8 @@ import { AppComponent } from '../app.component';
 })
 export class AboutMeComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
 
   ngOnInit(): void {
   }

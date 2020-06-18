@@ -1,33 +1,30 @@
 <div class="topContainer">
-    <h1>My Projects</h1>
-    <p>Since I am not yet a professional, I don't have a lot of impressive work to show here.
-        But what I do have is some tasks from an internship, a few tasks from my school and one or two private projects.
-    </p>
+    <h1>{{ 'myProjects.main.title' | translate }}</h1>
+    <p>{{ 'myProjects.main.text' | translate }}</p>
 </div>
 <div class="prjList">
-    <h2>TypeScript Applications</h2>
+    <h2>{{ 'myProjects.main.typeScript.title' | translate }}</h2>
     <ul>
-        <li><a routerLink="/isogramm-tester" routerLinkActive="active">Is it an Isogramm?</a></li>
-        <li><a routerLink="/string-reverser" routerLinkActive="active">Reverse a String</a></li>
-        <li><a routerLink="/diamond-fabricator" routerLinkActive="active">Create a Diamond</a></li>
+        <li><a routerLink="/isogramm-tester" routerLinkActive="active">{{ 'myProjects.main.typeScript.project1' | translate }}</a></li>
+        <li><a routerLink="/string-reverser" routerLinkActive="active">{{ 'myProjects.main.typeScript.project2' | translate }}</a></li>
+        <li><a routerLink="/diamond-fabricator" routerLinkActive="active">{{ 'myProjects.main.typeScript.project3' | translate }}</a></li>
     </ul>
 </div>
 <div class="prjList">
-    <h2><a routerLink="/java-applications" routerLinkActive="active">Java Applications</a></h2>
+    <h2><a routerLink="/java-applications" routerLinkActive="active">{{ 'myProjects.main.java.title' | translate }}</a></h2>
     <ul>
-        <li>Car Database</li>
-        <li>Chat</li>
+        <li>{{ 'myProjects.main.java.project1' | translate }}</li>
+        <li>{{ 'myProjects.main.java.project2' | translate }}</li>
     </ul>
 </div>
 <div class="prjList">
-    <h2><a routerLink="/c-sharp-applications" routerLinkActive="active">C# Applications</a></h2>
+    <h2><a routerLink="/c-sharp-applications" routerLinkActive="active">{{ 'myProjects.main.csharp.title' | translate }}</a></h2>
     <ul>
-        <li>Rectumble</li>
+        <li>{{ 'myProjects.main.csharp.project1' | translate }}</li>
     </ul>
 </div>
 <div class="prjList">
-    <h2>C++ Applications</h2>
-    <p>I have yet to add old projects from 11th grade, or make new ones to display.
-    </p>
+    <h2>{{ 'myProjects.main.cpp.title' | translate }}</h2>
+<p>{{ 'myProjects.main.cpp.filler' | translate }}</p>
 </div>
 <router-outlet #routerOutlet="outlet"></router-outlet>

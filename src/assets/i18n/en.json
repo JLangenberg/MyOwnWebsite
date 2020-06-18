@@ -1,0 +1,101 @@
+{
+    "introduction": {
+        "title": "I'm Julius",
+        "titleCaption": "An aspiring programmer",
+
+        "middleContainer":  {
+            "header1": "I'm 18 years old and currently learning web development.",
+            "header2": "As for now, I have experience with Java, C++ and C#."
+        },
+
+        "about":  {
+            "header": "About this website",
+            "text": "This website is run with a combination of TypeScript, Node, Bootstrap and Angular. It was made as a project to deepen my WebDevelopment Skills. My main focus was getting comfortable with Node, Bootstrap and Angular since up to this point I rarely worked with anything else than basic JS/TS, HTML and CSS."
+        },
+
+        "use":  {
+            "header":"The use of this website",
+            "text": "While I did make this website as practice for myself, I also wanted something I could show to give people a rough idea of my abilities as a programmer and web developer, as a sort of application. Naturally, since this is intended as a part of an application, there is also a bit of information about me. But since this is also available to anyone on the internet, I left out information that I deem private. Feel free to browse through this website and some of my work."
+        },
+
+        "credit":   {
+            "madeBy1": "Java Icon made by",
+            "madeBy2": "Freepik",
+            "madeBy3": "from",
+            "madeBy4": "www.flaticon.com"
+        }
+    },
+
+    "aboutMe":  {
+        "whoAmI":   {
+            "title": "Who am I?",
+            "text": "My name is Julius Langenberg. I am a 18 year old student at a school specialized on technologies. I always had a affinity for digital technologies and decided that I want to become some kind of software engineer. Because of that, I decided to switch to my current school, since it has more options regarding technologies, especially in comparison to my old school."
+        },
+
+        "hobbies":  {
+            "title": "My Hobbies",
+            "designDevelopment":    {
+                "title": "Design and Development",
+                "text": "My interest in coding originally came from wanting to make my own video games. After taking classes in school, I now have a basic understanding of programming and am still learning on a daily basis. Some of my passion projects include modding games I like to play or making small games in Unity."
+            },
+            "playingPiano": {
+                "title": "Playing the Piano",
+                "text": "I've always enjoyed listening to music. At some point, I wanted to make some myself. Learning the piano is a lot of fun, but it also teaches you discipline and that hard practice pays off. My number one lesson was, that practice makes perfect, and without it even a talented person won't make it very far."
+            },
+            "playingRocketLeague": {
+                "title": "Playing Rocket League",
+                "text": "Rocket League not only teaches me to cooperate with friends, it also teaches me to keep my cool and stay nice, even when I'm loosing."
+            },
+            "cooking": {
+                "title": "Cooking",
+                "text": "I started cooking for myself with approximately 13 years. With my limited cooking skills, I quickly found myself bored by the same kind of meals every day. With time, I not only learned a variety of dishes, but also a love for trying new food. I believe, that healthy eating habits are a very important part of a healthy lifestyle and key to being able to perform at your best. I found cooking to be a very stress relieving hobby, and especially enjoy cooking with or for family and friends."
+            }
+        },
+
+        "credit":   {
+            "p1": "Code,",
+            "p2": "Piano,",
+            "p3": "Car",
+            "p4": "and",
+            "p5": "Food",
+            "p6": "Icon made by",
+            "p7": "from"
+        }
+    },
+
+    "myProjects":    {
+        "main": {
+            "title": "My Projects",
+            "text": "Since I am not yet a professional, I don't have a lot of impressive work to show here. But what I do have is some tasks from an internship, a few tasks from my school and one or two private projects. On my GitHub Profile you can also find a few projects that are not listed here.",
+
+            "typeScript":   {
+                "title": "TypeScript Applications",
+                "project1": "Is it an Isogramm?",
+                "project2": "Reverse a String",
+                "project3": "Create a Diamond"
+            },
+
+            "java": {
+                "title": "Java Applications",
+                "project1": "Car Database",
+                "project2": "Chat"
+            },
+
+            "csharp":   {
+                "title": "C# Applications",
+                "project1": "Rectumble"
+            },
+
+            "cpp":  {
+                "title": "C++ Applications",
+                "filler": "I have yet to add old projects from 11th grade, or make new ones to display. This website isn't done yet, and is being continuously worked on."
+            }
+        }
+    },
+
+    "header":   {
+        "main": "Main Page",
+        "aboutMe": "About Me",
+        "myProjects": "My Projects"
+    }
+}
