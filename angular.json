@@ -21,7 +21,7 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "./MyOwnWebsite/src/assets"
+              "src/assets/i18n"
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
