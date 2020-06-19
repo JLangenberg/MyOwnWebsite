@@ -70,7 +70,7 @@
 
             "typeScript":   {
                 "title": "TypeScript Applikationen",
-                "errorMsg": "Seitdem es Übersetzungen gibt, funktionieren diese Anwendungen nur, wenn die Sprache aktualisiert wird. Ich arbeite an einem Fix.",
+                "errorMsg": "Seitdem Übersetzungen hinzugefügt wurden, funktionieren diese Anwendungen nur, wenn die Sprache aktualisiert wird. Ich arbeite an einem Fix.",
                 "project1": "Ist es ein Isogramm?",
                 "project2": "Ein String umdrehen",
                 "project3": "Diamanten herstellen"
