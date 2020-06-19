@@ -70,6 +70,7 @@
 
             "typeScript":   {
                 "title": "TypeScript Applikationen",
+                "errorMsg": "Seitdem es Übersetzungen gibt, funktionieren diese Anwendungen nur, wenn die Sprache aktualisiert wird. Ich arbeite an einem Fix.",
                 "project1": "Ist es ein Isogramm?",
                 "project2": "Ein String umdrehen",
                 "project3": "Diamanten herstellen"
@@ -77,7 +78,7 @@
 
             "java": {
                 "title": "Java Applikationen",
-                "project1": "Auto-Datenbank",
+                "project1": "Lernstandserhebung-Datenbank",
                 "project2": "Chat"
             },
 
@@ -97,5 +98,52 @@
         "main": "Hauptseite",
         "aboutMe": "Über mich",
         "myProjects": "Meine Projekte"
+    },
+
+    "footer":   {
+        "title": "Kontakt",
+        "caption": "Ich bin immer an neuen Möglichkeiten zu lernen interessiert.",
+        "mail": "E-Mail",
+        "github": "GitHub Profil"
+    },
+
+    "csharp": {
+        "title": "Rectumble",
+        "text1": "Unity verfügt über eine große Auswahl and Funktionen die die Entwicklung von kleinen Spielen vereinfacht, solange man auch alle relevanten Funktionen kennt. Rectumble ist mein einziges fertiges Spiel in Unity. Es funktioniert mit Code der in C# geschrieben ist.",
+        "text2": "In Rectumble kontrolliert der Spieler einen kleinen Würfel, schlittert über die Bahn und muss währenddessen anderen Würfel ausweichen. Durch das Erfolgreiche abschließen eines Levels beginnt sofort das andere. Es beinhaltet 5 kleine Level, jedes schwerer als das letzte.",
+        "text3": "Die Entwicklung von neuen Ideen und Levels macht mir viel Spaß und schrecke nicht vor Dingen zurück nur weil mir noch nicht klar wie ich sie umsetzen könnte. In so einem Fall recherchiere ich einfach online und suche nach Möglichkeiten zur Umsetzung. Diese Tüftlerei macht mir viel Spaß und ist sehr belohnend wenn es dann endlich funktioniert."
+    },
+
+    "java":{
+        "title": "Java Anwendungen",
+        "schooldb": {
+            "title": "Lernstandserhebungs-Datenbank",
+            "text": "Dieses Schulprojekt war eines der größten Java Projekte die ich jemals gemacht habe. Wir haben zwar nicht mit SQL gearbeitet, aber es war trotzdem das erste mal, dass ich das Gelernte zu Datenbanken anwenden konnte. Die Aufgabe war, ein Programm zu schreiben das Informationen über Schüler, ihre Klausuren und Lehrer speichern sollte. Nachdem ich mit dem Programm fertig war hatte ich das Gefühl, dass es noch viel Luft nach oben gab, also habe ich es neu strukturiert. Am Ende hatte ich eine sehr flexible Datenbank, die auch neue Einträge annehmen konnte."
+        },
+
+        "chat": {
+            "title": "Chat Anwendungen",
+            "text": "Diese Anwendung war für unsere Klasse die Einführung zur Netzwerkprogrammierung. Das Ziel war es, einen Server und einen Client zu erstellen mit dem man im lokalen Schulnetzwer miteinander chatten kann. Die erste Version dieser Anwendungen lief nur in der Konsole, und konnte auch nur Nachrichten lesen, wenn sie selber welche verschickte. Deshalb waren wir gezwungen, uns mit Threads auseinanderzusetzen. Nun hat dieses Programm nur noch wenige Bugs, und eine Grafische Oberfläche. Dieses Projekt befindet sich noch immer in der Entwicklung. Es befindet sich in einem GitHub-Repository.",
+            "linkserver": "Der Chat Server ist hier",
+            "linkclient": "Der Chat Client ist hier."
+        }
+    },
+
+    "diamond":  {
+        "title": "Diamantinator",
+        "caption": "Wie groß soll Ihr Diamant sein?",
+        "button": "Diamanten erstellen"
+    },
+
+    "isogramm":  {
+        "title": "Isogramminator",
+        "caption": "Geben Sie hier Text ein um zu überprüfen ob es ein Isogramm ist!",
+        "button": "Testen"
+    },
+
+    "reverse":  {
+        "title": "Umdrehinator",
+        "caption": "Geben Sie hier Ihren Text ein um ihn umzudrehen!",
+        "button": "Drehen"
     }
 }

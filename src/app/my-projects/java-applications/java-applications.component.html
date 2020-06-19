@@ -1,25 +1,17 @@
 <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|Montserrat|Sacramento&display=swap" rel="stylesheet">
 <div class="container">
-    <h1>Java Applications</h1>
+<h1>{{ 'java.title' | translate }}</h1>
     <div class="row">
-        <h3>School Test Database</h3>
+        <h3>{{ 'java.schooldb.title' | translate }}</h3>
         <!--<img src='../../../assets/images/rectumble3.PNG' alt="rectumble3" class="imageLeft"> TODO: Add images, maybe? Make it more attractive-->
-        <p>This was one of the biggest Java Programms I ever made. It was a project handed to my class by our teacher.
-            While we did not work with something like SQL, it was still the first time I could finally use what I learned
-            in our Database classes. The task was to create a program, that was able to save information about students, teachers and what exams the 
-            students took and did yet have to take.
-            After I was done with the programm, I felt like there was room for improvement. After restructuring my software, I was able to create a
-            database that was able to take in new classes, students, teachers. Overall, I tried to make my storage system as flexible as possible.
-        </p>
+        <p>{{ 'java.schooldb.text' | translate }}</p>
     </div>
     <div class="row">
-        <h3>Chat Program</h3>
+        <h3>{{ 'java.chat.title' | translate }}</h3>
         <!--<img src='../../../assets/images/rectumble2.PNG' alt="rectumble2" class="imageRight"> Add pictueres of the GUI as soon as they are done-->
-        <p>The chat programm was my classes introduction to software that actually worked with networks. The goal for this program was, to create
-            both a server and a client that we could use to chat with each others in the local school network. At first, we ended up with a chat and a server
-            that ran just on the console and could only receive messages while sending some. This forced me to learn more about threads, the solution to this problem.
-            The only thing left to do, is to add a GUI and quality of life improvements, since this project is still WIP and can also be seen in my GitHub repositories.
-            <a href="https://github.com/JLangenberg/chat-server">Chat Server</a><a href="https://github.com/JLangenberg/chat-client">Chat Client</a>
+        <p>{{ 'java.chat.text' | translate }}
+            <br><a href="https://github.com/JLangenberg/chat-server">{{ 'java.chat.linkserver' | translate }}</a>
+            <br><a href="https://github.com/JLangenberg/chat-client">{{ 'java.chat.linkclient' | translate }}</a>
         </p>
     </div>
 </div>
