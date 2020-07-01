@@ -1,20 +1,48 @@
-<nav class="">
+<div class="bgColour">
+  <nav class="">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a routerLink="/main" routerLinkActive ="active" class="navbar-brand">{{ 'header.main' | translate }}</a>
+        <a routerLink="/main" routerLinkActive="active" class="navbar-brand">{{
+          "header.main" | translate
+        }}</a>
       </div>
-  
+
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li><a routerLink="/about-me" routerLinkActive="active">{{ 'header.aboutMe' | translate}}</a></li>
-          <li><a routerLink="/my-projects" routerLinkActive="active">{{ 'header.myProjects' | translate }}</a></li>
+          <li>
+            <a routerLink="/about-me" routerLinkActive="active">{{
+              "header.aboutMe" | translate
+            }}</a>
+          </li>
+          <li>
+            <a routerLink="/my-projects" routerLinkActive="active">{{
+              "header.myProjects" | translate
+            }}</a>
+          </li>
           <li><a href="https://github.com/JLangenberg">GitHub</a></li>
         </ul>
-        
-          <ul class="nav navbar-nav navbar-right">
-            <li><button type="button" class="btn btn-primary" (click)="useLanguage('de')">Deutsch</button></li>
-            <li><button type="button" class="btn btn-primary" (click)="useLanguage('en')">English</button></li> 
+
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <button
+              type="button"
+              class="btn btn-primary"
+              (click)="useLanguage('de')"
+            >
+              Deutsch
+            </button>
+          </li>
+          <li>
+            <button
+              type="button"
+              class="btn btn-primary"
+              (click)="useLanguage('en')"
+            >
+              English
+            </button>
+          </li>
         </ul>
       </div>
     </div>
   </nav>
+</div>

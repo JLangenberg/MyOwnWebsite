@@ -17,7 +17,7 @@ export class DiamondFabricatorComponent implements OnInit {
         document.getElementById('feedback').innerHTML = 'Invalid input';
       } else  {
         if (inputSize >= 200) {
-          document.getElementById('feedback').innerHTML = 'Please don\'t try to crash this server :)';
+          document.getElementById('feedback').innerHTML = 'Please don\'t try to crash this! :)';
         } else  {
           // Generate a diamond and display it.
           document.getElementById('feedback').innerHTML = '<pre>' + generateDiamond(inputSize) + '</pre>';

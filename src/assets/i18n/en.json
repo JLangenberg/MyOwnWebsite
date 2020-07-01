@@ -70,7 +70,7 @@
 
             "typeScript":   {
                 "title": "TypeScript Applications",
-                "errorMsg": "Since translations were introduced, the applications only work if the language is refreshed. I am currently working on a Fix.",
+                "errorMsg": "Since translations were introduced, the applications only work if the language is refreshed. I am currently working on a Fix. Click on the 'Type-Script' header, to be send to a replacement-website. Since I am currently in an internship, I lack the time to work on this page. Thank you for understanding.",
                 "project1": "Is it an Isogramm?",
                 "project2": "Reverse a String",
                 "project3": "Create a Diamond"
