@@ -48,8 +48,12 @@
     border-radius:10rem;
     background-color: #1fab89;
     display: inline-block;
+    transition: all 1s;    
+}
 
-    
+.imgContainer:hover   {
+    width: 10%;
+    height: 10%;
 }
 
 .icons  {
