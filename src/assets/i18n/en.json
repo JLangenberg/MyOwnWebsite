@@ -19,10 +19,12 @@
         },
 
         "credit":   {
-            "madeBy1": "Java Icon made by",
+            "madeBy1": "Java, Fish and Algae Icon made by",
             "madeBy2": "Freepik",
             "madeBy3": "from",
-            "madeBy4": "www.flaticon.com"
+            "madeBy4": "www.flaticon.com",
+            "madeBy5": "Reef Icon made by",
+            "madeBy6": "Smashicons"
         }
     },
 
@@ -49,17 +51,22 @@
             "cooking": {
                 "title": "Cooking",
                 "text": "I started cooking for myself with approximately 13 years. With my limited cooking skills, I quickly found myself bored by the same kind of meals every day. With time, I not only learned a variety of dishes, but also a love for trying new food. I believe, that healthy eating habits are a very important part of a healthy lifestyle and key to being able to perform at your best. I found cooking to be a very stress relieving hobby, and especially enjoy cooking with or for family and friends."
+            },
+            "scienceFictionAndSpace":   {
+                "title": "Science-Fiction and Space",
+                "text": "My childhood-dream was to become an astronaut. To this day, space still fascinates me. That's why I still read or watch content about the future of space travel. This content ranges from videos about infrastructure that we could place in the orbit of planets, or Science-Fiction with Spaceships and alien civilazations. By the way, if you are also interested in Science-Fiction, I'd suggest to read the Triology 'Remembrance of Earth's Past' by Cixin Liu"
             }
         },
 
         "credit":   {
             "p1": "Code,",
             "p2": "Piano,",
-            "p3": "Car",
+            "p3": "Car,",
             "p4": "and",
             "p5": "Food",
             "p6": "Icon made by",
-            "p7": "from"
+            "p7": "from",
+            "p8": "Space"
         }
     },
 

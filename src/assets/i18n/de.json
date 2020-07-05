@@ -19,10 +19,12 @@
         },
 
         "credit":   {
-            "madeBy1": "Java Icon gemacht von",
+            "madeBy1": "Java, Fisch und Algen Icon gemacht von",
             "madeBy2": "Freepik",
             "madeBy3": "auf",
-            "madeBy4": "www.flaticon.com"
+            "madeBy4": "www.flaticon.com",
+            "madeBy5": "Riff Icon gemacht von",
+            "madeBy6": "Smashicons"
         }
     },
 
@@ -44,22 +46,27 @@
             },
             "playingRocketLeague": {
                 "title": "Rocket League spielen",
-                "text": "Rocket League bringt mir nicht nur bei mit Fremden effizient im Team zu arbeiten, es bringt mir auch bei Ruhig zu bleiben, auch wenn ich verliere."
+                "text": "Rocket League bringt mir nicht nur bei mit Fremden effizient im Team zu arbeiten, es bringt mir auch bei ruhig zu bleiben, auch wenn ich verliere."
             },
             "cooking": {
                 "title": "Kochen",
                 "text": "Ich habe mit ungefähr 13 Jahren zu kochen angefangen. Da meine Fähigkeiten zu kochen noch sehr eingeschränkt waren, stellte sich bei den immergleichen Gerichten schnell langeweile ein. Mit der Zeit habe ich nicht nur eine Menge neue Rezepte gelernt, sondern habe auch eine Liebe zum ausprobieren von neuen Gerichten entdeckt. Ich glaube, eine gesunde Ernährung sind ein wichtiger Teil einer gesunden Lebensweise und sehr wichtig um gute Leistungen erbringen zu können. Auch habe ich festgestellt, dass Kochen ein sehr entspannendes Hobby ist, das besonders mit Freunden oder für Freunde Spaß macht."
+            },
+            "scienceFictionAndSpace":   {
+                "title": "Science-Fiction und der Weltraum",
+                "text": "Schon in der Grundschule hatte ich den Traum, Astronaut zu werden. Diese Faszinaton für das Weltall besteht bis heute. Auch heute setze ich mich damit außeinander, wie die Raumfahrt der Zukunft aussehen könnte. Sei es mit den Ansätzen wie die Errichtung von Infrastruktur im Orbit von Planeten, oder fantastischen Science-Fiction Raumschiffen und außerirdischen Zivilisationen. Eine Leseempfehlung von meiner Seite wäre übrigens die Trisolaris-Triologie von Cixin Liu."
             }
         },
 
         "credit":   {
             "p1": "Code,",
             "p2": "Klavier,",
-            "p3": "Auto",
+            "p3": "Auto, ",
             "p4": "und",
             "p5": "Essen",
             "p6": "Icon made by",
-            "p7": "auf"
+            "p7": "auf",
+            "p8": "Galaxie"
         }
     },
 
