@@ -10,7 +10,7 @@
 
         "about":  {
             "header": "About this website",
-            "text": "This website is run with a combination of TypeScript, Node, Bootstrap and Angular. Using Travis, the website is also automatically deployed for GitHub Pages. It was made as a project to deepen my WebDevelopment Skills. My main focus was getting comfortable with Node, Bootstrap and Angular since up to this point I rarely worked with anything else than basic JS/TS, HTML and CSS. "
+            "text": "This website is run with a combination of TypeScript, Node, Bootstrap and Angular. Using Travis, the website is also automatically deployed for GitHub Pages. It was made as a project to deepen my WebDevelopment skills. My main focus was getting comfortable with Node, Bootstrap and Angular since up to this point I rarely worked with anything else than basic JavaScript/TypeScript, HTML and CSS. "
         },
 
         "use":  {
@@ -31,7 +31,7 @@
     "aboutMe":  {
         "whoAmI":   {
             "title": "Who am I?",
-            "text": "My name is Julius Langenberg. I am a 18 year old student at a school specialized on technologies. I always had a affinity for digital technologies and decided that I want to become some kind of software engineer. Because of that, I decided to switch to my current school, since it has more options regarding technologies, especially in comparison to my old school."
+            "text": "My name is Julius Langenberg. I am a 18 year old student at a school specialized in technologies. I always had an affinity for digital technologies and decided that I want to become some kind of software engineer. Because of that, I decided to switch to my current school, since it has more options regarding technologies, especially in comparison to my old school."
         },
 
         "hobbies":  {
@@ -73,11 +73,11 @@
     "myProjects":    {
         "main": {
             "title": "My Projects",
-            "text": "Since I am not yet a professional, I don't have a lot of impressive work to show here. But what I do have is some tasks from an internship, a few tasks from my school and one or two private projects. On my GitHub Profile you can also find a few projects that are not listed here.",
+            "text": "Since I am not yet a professional, I don't have a lot of impressive work to show here. But what I do have are some tasks from an internship, a few tasks from my school and one or two private projects. On my GitHub Profile you can also find a few projects that are not listed here.",
 
             "typeScript":   {
                 "title": "TypeScript Applications",
-                "errorMsg": "Since translations were introduced, the applications only work if the language is refreshed. I am currently working on a Fix. Click on the 'Type-Script' header, to be send to a replacement-website. Since I am currently in an internship, I lack the time to work on this page. Thank you for understanding.",
+                "errorMsg": "Since translations were introduced, the applications only work if the language is refreshed. I am currently working on a fix. Click on the 'Type-Script' header, to be send to a replacement-website. Since I am currently in an internship, I lack the time to work on this page. Thank you for understanding.",
                 "project1": "Is it an Isogramm?",
                 "project2": "Reverse a String",
                 "project3": "Create a Diamond"
@@ -125,12 +125,12 @@
         "title": "Java Applications",
         "schooldb": {
             "title": "School Test Database",
-            "text": "This was one of the biggest Java Programms I ever made. It was a project handed to my class by our teacher. While we did not work with something like SQL, it was still the first time I could finally use what I learned in our Database classes. The task was to create a program, that was able to save information about students, teachers and what exams the students took and did yet have to take. After I was done with the programm, I felt like there was room for improvement. After restructuring my software, I was able to create a database that was able to take in new classes, students, teachers. Overall, I tried to make my storage system as flexible as possible."
+            "text": "This was one of the biggest Java applications I ever made. It was a project handed to my class by our teacher. While we did not work with something like SQL, it was still the first time I could finally use what I learned in our Database classes. The task was to create a program, that was able to save information about students, teachers and what exams the students took and did yet have to take. After I was done with the program, I felt like there was room for improvement. After restructuring my software, I was able to create a database that was able to take in new classes, students, teachers. Overall, I tried to make my storage system as flexible as possible."
         },
 
         "chat": {
             "title": "Chat Program",
-            "text": "The chat programm was my classes introduction to software that actually worked with networks. The goal for this program was, to create both a server and a client that we could use to chat with each others in the local school network. At first, we ended up with a chat and a server that ran just on the console and could only receive messages while sending some. This forced me to learn more about threads, the solution to this problem. The only thing left to do, is to add a GUI and quality of life improvements, since this project is still WIP and can also be seen in my GitHub repositories.",
+            "text": "The chat program was my classes introduction to software that actually worked with networks. The goal for this program was, to create both a server and a client that we could use to chat with each others in the local school network. At first, we ended up with a chat and a server that ran just on the console and could only receive messages while sending some. This forced me to learn more about threads, the solution to this problem. The only thing left to do, is to add a GUI and quality of life improvements, since this project is still WIP (Work-In-Progress) and can also be seen in my GitHub repositories.",
             "linkserver": "Find the Chat Server here.",
             "linkclient": "Find the Chat Client here."
         }
