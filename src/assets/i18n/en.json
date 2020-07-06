@@ -10,7 +10,7 @@
 
         "about":  {
             "header": "About this website",
-            "text": "This website is run with a combination of TypeScript, Node, Bootstrap and Angular. It was made as a project to deepen my WebDevelopment Skills. My main focus was getting comfortable with Node, Bootstrap and Angular since up to this point I rarely worked with anything else than basic JS/TS, HTML and CSS."
+            "text": "This website is run with a combination of TypeScript, Node, Bootstrap and Angular. Using Travis, the website is also automatically deployed for github pages. It was made as a project to deepen my WebDevelopment Skills. My main focus was getting comfortable with Node, Bootstrap and Angular since up to this point I rarely worked with anything else than basic JS/TS, HTML and CSS. "
         },
 
         "use":  {
