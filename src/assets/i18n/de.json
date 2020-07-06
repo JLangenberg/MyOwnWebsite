@@ -4,18 +4,18 @@
         "titleCaption": "Ein aufstrebender Programmierer",
 
         "middleContainer":  {
-            "header1": "Ich bin 18 Jahre alt und lerne gerade WebDevelopment",
+            "header1": "Ich bin 18 Jahre alt und lerne gerade Web-Development",
             "header2": "Momentan habe ich Erfahrung mit Java, C++, und C#."
         },
 
         "about":  {
             "header": "Über diese Website",
-            "text": "Diese Website läuft mit einer Kombination aus TypeScript, Node, Bootstrap und Angular. Sie ist ein Projekt das dazu diente, meine WebDevelopment Fähigkeiten zu verbessern. Mein Ziel ist es mir Grundkenntnisse in Node, Bootstrap und Angular anzueignen, da ich bis jetzt nur selten mit etwas außer JavaScript/TypeScript, HTML und CSS gearbeitet habe."
+            "text": "Diese Website läuft mit einer Kombination aus TypeScript, Node, Bootstrap und Angular. Außerdem wird mithilfe von Travis jede neue Version automatisch zusammengebaut und für GitHub Pages bereitgestellt. Sie ist ein Projekt, dass dazu diente, meine Web-Development Fähigkeiten zu verbessern. Mein Ziel ist es mir Grundkenntnisse in Node, Bootstrap und Angular anzueignen, da ich bis jetzt nur selten mit etwas außer JavaScript/TypeScript, HTML und CSS gearbeitet habe."
         },
 
         "use":  {
             "header":"Der Nutzen dieser Website",
-            "text": "Diese Website war zwar auch als Übung für mich selbst gedacht, sollte allerdings auch dazu dienen etwas zu haben, dass Leuten eine grobe Idee von meinen Fähigkeiten gibt, auch als eine Art Bewerbung.  Da dies also auch eine Form der Bewerbung ist gibt es hier auch einiges über mich zu lesen. Aber da diese Website frei zugänglich für jeden ist, habe ich auf private Informationen verzichtet. Damit möchte ich Sie dazu einladen, meine Website zu erkunden und einen Blick auf meine bisherigen Projekte zu werfen. Die deutsche Übersetzung ist neu und noch nicht ganz fertig, es kann sein, dass hier und da noch Englische Inhalte zu finden sind."
+            "text": "Diese Website war zwar auch als Übung für mich selbst gedacht, sollte allerdings auch dazu dienen etwas zu haben, dass Leuten eine grobe Idee von meinen Fähigkeiten gibt, auch als eine Art Bewerbung.  Da dies also auch eine Form der Bewerbung ist gibt es hier auch einiges über mich zu lesen. Aber da diese Website frei zugänglich für jeden ist, habe ich auf private Informationen wie einen Lebenslauf verzichtet. Damit möchte ich Sie dazu einladen, meine Website zu erkunden und einen Blick auf ein paar meiner bisherigen Projekte zu werfen."
         },
 
         "credit":   {
@@ -38,11 +38,11 @@
             "title": "Meine Hobbies",
             "designDevelopment":    {
                 "title": "Design und Entwicklung",
-                "text": "Mein Interesse an Programmierung kam ursprünglich von dem Wunsch, meine eigenen Computerspiele zu entwickeln. Nach dem Unterricht in der Schule und dem auseinandersetzen mit Privaten Interessen, habe ich jetzt ein grundlegendes Verständnis der Softwareentwicklung und lerne immer noch jeden Tag etwas dazu. Zwei meiner privaten Interessen sind das modifizieren von Spielen und die eigene Entwicklung von neuen, kleinen Spielen."
+                "text": "Mein Interesse an Programmierung kam ursprünglich von dem Wunsch, meine eigenen Computerspiele zu entwickeln. Nach dem Unterricht in der Schule und dem auseinandersetzen mit privaten Interessen, habe ich jetzt ein grundlegendes Verständnis der Softwareentwicklung und lerne immer noch jeden Tag etwas dazu. Zwei meiner privaten Interessen sind das modifizieren von Spielen und die eigene Entwicklung von neuen, kleinen Spielen."
             },
             "playingPiano": {
                 "title": "Klavier spielen",
-                "text": "Ich hatte immer Spaß daran Musik zu hören. Irgendwann war mir das nicht mehr genug, und ich wollte selber welch machen. Klavier spielen lernen macht viel Spaß, aber es bringt einem auch Disziplin bei. Aber auch lernt man, dass sich üben auszahlt und ohne Übung sogar talentierte Menschen nicht sehr weit kommen."
+                "text": "Ich hatte immer Spaß daran Musik zu hören. Irgendwann war mir das nicht mehr genug, und ich wollte selber welche machen. Klavier spielen lernen macht viel Spaß, aber es bringt einem auch Disziplin bei. Aber auch lernt man, dass sich üben auszahlt und ohne Übung sogar talentierte Menschen nicht sehr weit kommen."
             },
             "playingRocketLeague": {
                 "title": "Rocket League spielen",
@@ -50,7 +50,7 @@
             },
             "cooking": {
                 "title": "Kochen",
-                "text": "Ich habe mit ungefähr 13 Jahren zu kochen angefangen. Da meine Fähigkeiten zu kochen noch sehr eingeschränkt waren, stellte sich bei den immergleichen Gerichten schnell langeweile ein. Mit der Zeit habe ich nicht nur eine Menge neue Rezepte gelernt, sondern habe auch eine Liebe zum ausprobieren von neuen Gerichten entdeckt. Ich glaube, eine gesunde Ernährung sind ein wichtiger Teil einer gesunden Lebensweise und sehr wichtig um gute Leistungen erbringen zu können. Auch habe ich festgestellt, dass Kochen ein sehr entspannendes Hobby ist, das besonders mit Freunden oder für Freunde Spaß macht."
+                "text": "Ich habe mit ungefähr 13 Jahren zu kochen angefangen. Da meine Fähigkeiten zu kochen noch sehr eingeschränkt waren, stellte sich bei den immergleichen Gerichten schnell Langeweile ein. Mit der Zeit habe ich nicht nur eine Menge neue Rezepte gelernt, sondern habe auch eine Liebe zum ausprobieren von neuen Gerichten entdeckt. Ich glaube, eine gesunde Ernährung sind ein wichtiger Teil einer gesunden Lebensweise und sehr wichtig um gute Leistungen erbringen zu können. Auch habe ich festgestellt, dass Kochen ein sehr entspannendes Hobby ist, das besonders mit Freunden oder für Freunde Spaß macht."
             },
             "scienceFictionAndSpace":   {
                 "title": "Science-Fiction und der Weltraum",
@@ -73,11 +73,11 @@
     "myProjects":    {
         "main": {
             "title": "Meine Projekte",
-            "text": "Da ich noch kein Profi bin, habe ich nicht besonders viele beeindruckende Projekte, aber was ich habe sind ein paar Aufgaben aus einem Praktikum, aus meiner Schule und das ein oder andere private Projekt. Auf meinem GitHub Profil gibt es auch Projekte, die hier nicht aufgeführt sind.",
+            "text": "Da ich noch kein Profi bin, habe ich nicht besonders viele beeindruckende Projekte, aber was ich habe sind ein paar Aufgaben aus einem Praktikum, aus meiner Schule und das ein oder andere private Projekt. Auf meinem GitHub Profil gibt es auch Projekte, die hier nicht unbedingt aufgeführt sind.",
 
             "typeScript":   {
                 "title": "TypeScript Applikationen",
-                "errorMsg": "Seitdem Übersetzungen hinzugefügt wurden, funktionieren diese Anwendungen nur, wenn die Sprache aktualisiert wird. Ich arbeite an einem Fix. Klicken Sie auf die Überschrift um auf eine Ersatz-Seite umgeleitet zu werden. Da ich mich gerade in einem Praktikum befinde, habe ich nur wenig Zeit um an dieser Website zu arbeiten. Danke für Ihr Verständnis.",
+                "errorMsg": "Seitdem Übersetzungen hinzugefügt wurden, funktionieren diese Anwendungen nur, wenn die Sprache aktualisiert wird. Ich arbeite an einer Lösung. Klicken Sie auf die Überschrift, um auf eine Ersatz-Seite umgeleitet zu werden. Da ich mich gerade in einem Praktikum befinde, habe ich nur wenig Zeit um an dieser Website zu arbeiten. Danke für Ihr Verständnis.",
                 "project1": "Ist es ein Isogramm?",
                 "project2": "Ein String umdrehen",
                 "project3": "Diamanten herstellen"
@@ -117,8 +117,8 @@
     "csharp": {
         "title": "Rectumble",
         "text1": "Unity verfügt über eine große Auswahl and Funktionen die die Entwicklung von kleinen Spielen vereinfacht, solange man auch alle relevanten Funktionen kennt. Rectumble ist mein einziges fertiges Spiel in Unity. Es funktioniert mit Code der in C# geschrieben ist.",
-        "text2": "In Rectumble kontrolliert der Spieler einen kleinen Würfel, schlittert über die Bahn und muss währenddessen anderen Würfel ausweichen. Durch das Erfolgreiche abschließen eines Levels beginnt sofort das andere. Es beinhaltet 5 kleine Level, jedes schwerer als das letzte.",
-        "text3": "Die Entwicklung von neuen Ideen und Levels macht mir viel Spaß und schrecke nicht vor Dingen zurück nur weil mir noch nicht klar wie ich sie umsetzen könnte. In so einem Fall recherchiere ich einfach online und suche nach Möglichkeiten zur Umsetzung. Diese Tüftlerei macht mir viel Spaß und ist sehr belohnend wenn es dann endlich funktioniert."
+        "text2": "In Rectumble kontrolliert der Spieler einen kleinen Würfel, schlittert über die Bahn und muss währenddessen anderen Würfel ausweichen. Durch das erfolgreiche Abschließen eines Levels beginnt sofort das andere. Es beinhaltet 5 kleine Level, jedes schwerer als das letzte.",
+        "text3": "Die Entwicklung von neuen Ideen und Levels macht mir viel Spaß und ich schrecke nicht vor Dingen zurück, nur weil mir noch nicht klar ist wie ich sie umsetzen könnte. In so einem Fall recherchiere ich einfach online und suche nach Möglichkeiten zur Umsetzung. Diese Tüftlerei macht mir viel Spaß und ist sehr belohnend, wenn es dann endlich funktioniert."
     },
 
     "java":{
@@ -130,7 +130,7 @@
 
         "chat": {
             "title": "Chat Anwendungen",
-            "text": "Diese Anwendung war für unsere Klasse die Einführung zur Netzwerkprogrammierung. Das Ziel war es, einen Server und einen Client zu erstellen mit dem man im lokalen Schulnetzwer miteinander chatten kann. Die erste Version dieser Anwendungen lief nur in der Konsole, und konnte auch nur Nachrichten lesen, wenn sie selber welche verschickte. Deshalb waren wir gezwungen, uns mit Threads auseinanderzusetzen. Nun hat dieses Programm nur noch wenige Bugs, und eine Grafische Oberfläche. Dieses Projekt befindet sich noch immer in der Entwicklung. Es befindet sich in einem GitHub-Repository.",
+            "text": "Diese Anwendung war für unsere Klasse die Einführung zur Netzwerkprogrammierung. Das Ziel war es, einen Server und einen Client zu erstellen mit dem man im lokalen Schulnetzwerk miteinander chatten kann. Die erste Version dieser Anwendungen lief nur in der Konsole, und konnte auch nur Nachrichten lesen, wenn sie selber welche verschickte. Deshalb waren wir gezwungen, uns mit Threads auseinanderzusetzen. Nun hat dieses Programm nur noch wenige Bugs, und eine grafische Oberfläche. Dieses Projekt befindet sich noch immer in der Entwicklung. Es befindet sich in einem GitHub-Repository.",
             "linkserver": "Der Chat Server ist hier",
             "linkclient": "Der Chat Client ist hier."
         }
@@ -138,13 +138,13 @@
 
     "diamond":  {
         "title": "Diamantinator",
-        "caption": "Wie groß soll Ihr Diamant sein?",
+        "caption": "Geben Sie eine Zahl ein!",
         "button": "Diamanten erstellen"
     },
 
     "isogramm":  {
         "title": "Isogramminator",
-        "caption": "Geben Sie hier Text ein um zu überprüfen ob es ein Isogramm ist!",
+        "caption": "Geben Sie hier Wort ein um zu überprüfen, ob es ein Isogramm ist!",
         "button": "Testen"
     },
 
