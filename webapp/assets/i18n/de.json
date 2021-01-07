@@ -77,7 +77,6 @@
 
             "typeScript":   {
                 "title": "TypeScript Applikationen",
-                "errorMsg": "Seitdem Übersetzungen hinzugefügt wurden, funktionieren diese Anwendungen nur, wenn die Sprache aktualisiert wird. Ich arbeite an einer Lösung. Klicken Sie auf die Überschrift, um auf eine Ersatz-Seite umgeleitet zu werden. Da ich mich gerade in einem Praktikum befinde, habe ich nur wenig Zeit um an dieser Website zu arbeiten. Danke für Ihr Verständnis.",
                 "project1": "Ist es ein Isogramm?",
                 "project2": "Ein String umdrehen",
                 "project3": "Diamanten herstellen"
